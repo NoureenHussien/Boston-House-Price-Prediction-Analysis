@@ -29,7 +29,7 @@ The analysis covers:
     ![House Price Prediction]( Correlation_heatmap.png)
   * Actual vs. Predicted plot
   * Residual plot (model assumptions check)
-    ![House Price Prediction](Residual_plot.png)
+    ![House Price Prediction](Residual_Plot.png)
     
   * Price distribution histograms (actual vs. predicted)
 * **Prediction Function**: A reusable Python function to estimate house prices from user-provided feature values.
