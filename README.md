@@ -43,7 +43,7 @@ The analysis covers:
 2. **Dataset**: Ensure the dataset file is available in the project directory:
 
    ```
-   4) house Prediction Data Set.csv
+   House Prediction Data Set.csv
    ```
 
 3. **Execution**:
