@@ -23,10 +23,14 @@ The analysis covers:
 * **Visualizations (Interactive - Plotly)**:
 
   * Feature vs. Price plots (e.g., rooms vs. price)
+    ![House Price Prediction](Feature_vs_Price.png)
   * Feature importance bar chart (model coefficients)
   * Correlation heatmap (relationships between variables)
+    ![House Price Prediction]( Correlation_heatmap.png)
   * Actual vs. Predicted plot
   * Residual plot (model assumptions check)
+    ![House Price Prediction](Residual_plot.png)
+    
   * Price distribution histograms (actual vs. predicted)
 * **Prediction Function**: A reusable Python function to estimate house prices from user-provided feature values.
 
